@@ -91,3 +91,8 @@ npm run dev
 ## Конфигурация
 
 Переменные окружения описаны во вложенном README; ключевые имена: `GOOGLE_SHEETS_CREDENTIALS`, `TELEGRAM_BOT_TOKEN`, `TELEGRAM_WEBHOOK_SECRET`, `CRON_SECRET`, `APP_BASE_URL`. Секреты в репозиторий не коммитятся.
+
+## License / Лицензия
+
+Released under the MIT License. See [LICENSE](LICENSE).
+Проект распространяется по лицензии MIT. См. [LICENSE](LICENSE).
